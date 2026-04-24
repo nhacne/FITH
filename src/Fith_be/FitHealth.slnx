@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FitHealth.API/FitHealth.API.csproj" />
+  <Project Path="FitHealth.Application/FitHealth.Application.csproj" />
+  <Project Path="FitHealth.Domain/FitHealth.Domain.csproj" />
+  <Project Path="FitHealth.Infrastructure/FitHealth.Infrastructure.csproj" />
+</Solution>
